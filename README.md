@@ -1,5 +1,4 @@
 # Liocinema-Jotstar-Merger-Analysis-
-# 📊 Subscription Plan Analysis Dashboard - Power BI
 
 This project is a Power BI Dashboard that analyzes subscriber behaviors including plan upgrades, downgrades, churn, and monthly revenue patterns. It provides a clear visualization of how users interact with different subscription plans over time.
 
